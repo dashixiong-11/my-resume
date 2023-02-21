@@ -1,4 +1,6 @@
+
 {
+    
   let view = {
     el:'.nav',
     template:`
